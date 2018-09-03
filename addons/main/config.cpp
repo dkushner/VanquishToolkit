@@ -1,4 +1,4 @@
-#include <Component.hpp>
+#include <component.hpp>
 
 #include <CfgMods.hpp>
 #include <CfgPatches.hpp>
@@ -6,5 +6,3 @@
 #include <CfgFunctions.hpp>
 #include <CfgVehicles.hpp>
 #include <CfgHints.hpp>
-
-#include <EventHandlers.hpp>
